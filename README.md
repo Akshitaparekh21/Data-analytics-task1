@@ -1,4 +1,4 @@
-This project involves cleaning and preprocessing a Marketing campaign dataset to prepare it for analysis. The original dataset contained information about Customer with various attributes like IT, Income, birth_year, date of purchase,buying data and more.
+This project involves cleaning and preprocessing a Marketing campaign dataset to prepare it for analysis. The original dataset contained information about Customer with various attributes like ID, Income, year_birth, date of purchase,buying data and more.
 
 Cleaning Steps Performed
 Missing Values Analysis:
